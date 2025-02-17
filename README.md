@@ -11,8 +11,8 @@ I'm a **Python Backend Engineer** specializing in **FastAPI** & **Django (REST A
 - **Others:** WebSockets, RESTful APIs, GraphQL, Unit Testing
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/hamed-ayokunle-2b9aa91a3/)
-- **Twitter:** [Your Twitter](https://x.com/HamedAyoku61148)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hamed-ayokunle-2b9aa91a3/)
+- **Twitter:** [X](https://x.com/HamedAyoku61148)
 - **Email:** Hamedayokunle58@gmail.com
 
 ---
