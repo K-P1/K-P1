@@ -13,7 +13,7 @@ I'm a **Python Backend Engineer** specializing in **FastAPI** & **Django (REST A
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hamed-ayokunle-2b9aa91a3/)
 - [X](https://x.com/HamedAyoku61148)
-- [Email]://Hamedayokunle58@gmail.com
+- [Email]://(Hamedayokunle58@gmail.com)
 
 ---
 💡 *"Clean code and optimized performance are the heart of great software."* 🚀
