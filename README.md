@@ -59,6 +59,3 @@ A social movie discovery platform backend built with FastAPI integrating the TMD
 💡 *Clean architecture, reliable systems, and well-designed APIs are the foundation of great backend software.*
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-P1&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-P1&layout=compact&theme=dark)
